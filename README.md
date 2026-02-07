@@ -9,11 +9,11 @@ Um app de conversão de unidades feito em .NET MAUI, com foco em UI simples e co
 
 **Screenshots**
 <p align="center">
-  <img src="Assets/Screenshots/Captura%20de%20Tela%202026-02-07%20a%CC%80s%2001.58.45.png" width="220" />
-  <img src="Assets/Screenshots/Captura%20de%20Tela%202026-02-07%20a%CC%80s%2001.58.55.png" width="220" />
-  <img src="Assets/Screenshots/Captura%20de%20Tela%202026-02-07%20a%CC%80s%2001.59.24.png" width="220" />
-  <img src="Assets/Screenshots/Captura%20de%20Tela%202026-02-07%20a%CC%80s%2001.59.31.png" width="220" />
-  <img src="Assets/Screenshots/Captura%20de%20Tela%202026-02-07%20a%CC%80s%2001.59.44.png" width="220" />
+  <img src="Assets/Screenshots/print1.png" width="220" />
+  <img src="Assets/Screenshots/print2.png" width="220" />
+  <img src="Assets/Screenshots/print3.png" width="220" />
+  <img src="Assets/Screenshots/print4.png" width="220" />
+  <img src="Assets/Screenshots/print5.png" width="220" />
 </p>
 
 **Stack**
